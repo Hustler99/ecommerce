@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6378f340.css",
+    "main.js": "./static/js/main.d75d5abd.js",
+    "static/js/592.3eab0485.chunk.js": "./static/js/592.3eab0485.chunk.js",
+    "static/media/238-2388525_download-button-transparent-clipart-app-store-download-buttons.png": "./static/media/238-2388525_download-button-transparent-clipart-app-store-download-buttons.1a145b76f7f02e8af5a0.png",
+    "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "./static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/error.svg": "./static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/80986018-eadd-499f-9d99-be18df80a4e8.avif": "./static/media/80986018-eadd-499f-9d99-be18df80a4e8.8619644b53503321d8e7.avif",
+    "static/media/a92443db-1170-4ab9-92ca-7d204c972416.avif": "./static/media/a92443db-1170-4ab9-92ca-7d204c972416.ef5cb15db351d968f388.avif",
+    "static/media/1cb6d337-ab43-42bf-b381-64e705052e66.avif": "./static/media/1cb6d337-ab43-42bf-b381-64e705052e66.0de255c3c9657828a867.avif",
+    "static/media/12518e86-9379-4605-b26c-37241ff84dc4.avif": "./static/media/12518e86-9379-4605-b26c-37241ff84dc4.03305b2322b8010a0445.avif",
+    "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/Visa_Logo.png": "./static/media/Visa_Logo.4aa3f67eb60664010910.png",
+    "static/media/fa-v4compatibility.ttf": "./static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/freshcart-logo.svg": "./static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "./index.html",
+    "main.6378f340.css.map": "./static/css/main.6378f340.css.map",
+    "main.d75d5abd.js.map": "./static/js/main.d75d5abd.js.map",
+    "592.3eab0485.chunk.js.map": "./static/js/592.3eab0485.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6378f340.css",
+    "static/js/main.d75d5abd.js"
+  ]
+}
